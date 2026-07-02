@@ -1,0 +1,7 @@
+# Office temp files
+~$*
+*.tmp
+
+# Exports
+exports/
+*.zip
